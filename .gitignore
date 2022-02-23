@@ -1,0 +1,7 @@
+.Python
+.idea
+__pycache__/
+venv/
+build/
+.coverage
+dbase.db
